@@ -1,7 +1,7 @@
 const http = require('http');
 const fs = require('fs');
 
-const delayTime = 1000;
+const delayTime = 3000;
 
 handle('./calls');
 
