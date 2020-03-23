@@ -1,0 +1,39 @@
+{
+  "host": "urltojson-rpc.io",
+  "path": "/json-rpc",
+  "method": "myMethod.name",
+  "params": [
+    {
+      "param1": "6a99d7b2-12e4-4d18-bd3d-fdf97514df1b",
+      "param2": {
+        "param3": "6a99d7b2-12e4-4d18-bd3d-fdf97514df1b",
+        "param4": "6a99d7b2-12e4-4d18-bd3d-fdf97514df1b"
+      }
+    },
+    {
+      "param1": "6a99d7b2-12e4-4d18-bd3d-fdf97514df1b",
+      "param2": {
+        "param3": "6a99d7b2-12e4-4d18-bd3d-fdf97514df1b",
+        "param4": "6a99d7b2-12e4-4d18-bd3d-fdf97514df1b"
+      }
+    },{
+      "param1": "6a99d7b2-12e4-4d18-bd3d-fdf97514df1b",
+      "param2": {
+        "param3": "6a99d7b2-12e4-4d18-bd3d-fdf97514df1b",
+        "param4": "6a99d7b2-12e4-4d18-bd3d-fdf97514df1b"
+      }
+    },{
+      "param1": "6a99d7b2-12e4-4d18-bd3d-fdf97514df1b",
+      "param2": {
+        "param3": "6a99d7b2-12e4-4d18-bd3d-fdf97514df1b",
+        "param4": "6a99d7b2-12e4-4d18-bd3d-fdf97514df1b"
+      }
+    },{
+      "param1": "6a99d7b2-12e4-4d18-bd3d-fdf97514df1b",
+      "param2": {
+        "param3": "6a99d7b2-12e4-4d18-bd3d-fdf97514df1b",
+        "param4": "6a99d7b2-12e4-4d18-bd3d-fdf97514df1b"
+      }
+    }
+  ]
+}
