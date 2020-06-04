@@ -1,0 +1,5 @@
+{
+  "delay": 200,
+  "host": "google.com",
+  "path": "/json-rpc"
+}

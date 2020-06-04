@@ -1,6 +1,4 @@
 {
-  "host": "urltojson-rpc.io",
-  "path": "/json-rpc",
   "method": "myMethod.name",
   "params": [
     {
